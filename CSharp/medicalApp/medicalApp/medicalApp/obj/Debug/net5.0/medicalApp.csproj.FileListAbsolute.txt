@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.exe
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.deps.json
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.dll
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\ref\medicalApp.dll
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\bin\Debug\net5.0\medicalApp.pdb
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.dll
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\ref\medicalApp.dll
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.pdb
+C:\GitHub\MSSA-Assignments\C#\medicalApp\medicalApp\medicalApp\obj\Debug\net5.0\medicalApp.genruntimeconfig.cache

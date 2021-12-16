@@ -1,0 +1,5 @@
+C:\GitHub\MSSA-Assignments\C#\genericCalc\genericCalc\genericCalc\obj\Debug\net5.0\genericCalc.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\genericCalc\genericCalc\genericCalc\obj\Debug\net5.0\genericCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\genericCalc\genericCalc\genericCalc\obj\Debug\net5.0\genericCalc.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\genericCalc\genericCalc\genericCalc\obj\Debug\net5.0\genericCalc.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\genericCalc\genericCalc\genericCalc\obj\Debug\net5.0\genericCalc.csproj.CoreCompileInputs.cache

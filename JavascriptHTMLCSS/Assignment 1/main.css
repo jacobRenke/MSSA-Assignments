@@ -1,0 +1,79 @@
+.logo:hover
+{
+    background-color: white;
+    opacity: 50%;
+    transition: 2s;
+}
+
+.header
+{
+    height: 120px;
+}
+
+.header nav ul
+{
+    display: inline;
+    list-style: none;
+}
+
+.header nav ul li
+{
+
+    display: inline-block;
+}
+
+.header ul li::after
+{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: black;
+    display: block;
+    margin-left: 0em;
+    transition: 0.5s;
+}
+
+.header ul li:hover::after
+{
+    width: 30px;
+}
+
+.footer-bottom
+{
+    height: 120px;
+}
+
+.footer-bottom p
+{
+    margin-left: 50%;
+}
+
+.footer-bottom nav
+{
+    margin-left: 80%;
+    text-decoration: none;
+}
+
+.footer-bottom nav ul li
+{
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+.footer-bottom ul li::after
+{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: black;
+    display: block;
+    margin-left: 0em;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.footer-bottom ul li:hover::after
+{
+    width: 30px;
+}

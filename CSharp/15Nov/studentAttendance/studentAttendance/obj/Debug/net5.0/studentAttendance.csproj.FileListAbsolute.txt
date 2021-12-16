@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.exe
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.deps.json
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.dll
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\ref\studentAttendance.dll
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\bin\Debug\net5.0\studentAttendance.pdb
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.dll
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\ref\studentAttendance.dll
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.pdb
+C:\GitHub\MSSA-Assignments\C#\15Nov\studentAttendance\studentAttendance\obj\Debug\net5.0\studentAttendance.genruntimeconfig.cache

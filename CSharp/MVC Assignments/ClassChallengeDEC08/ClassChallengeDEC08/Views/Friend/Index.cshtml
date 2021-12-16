@@ -1,0 +1,37 @@
+﻿@using ClassChallengeDEC08.Services;
+@model FriendsList
+@{
+    ViewData["Title"] = "Index";
+}
+
+@section section1
+{ 
+    <div class="introduction">
+        <div class="header"><h1>Welcome to the Lift of Friends!</h1></div>
+        <div class="body">
+            <p>1</p>
+            <p>2</p>
+            <p>3</p>
+        </div>
+    </div>
+}
+
+<h1>Index</h1>
+
+@foreach(var item in Model.Friends)
+{
+    <ul>
+    
+    <li> Friends Name @item._friendName </li>
+    
+    </ul>
+    <div class ="friend-actions">
+
+        @*this asp-action calls the Details action from friend controller
+        this asp-route-id sends the id from the current item in the model to the view
+        in this case it sends an integer corresponding to the current value for friends ID*@
+        <a asp-action="Details" asp-route-id ="@item._friendID" > View Friend's Details</a>
+    </div>
+
+}
+

@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.exe
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.deps.json
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.dll
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\ref\EnglishToSpanish.dll
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\bin\Debug\net5.0\EnglishToSpanish.pdb
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.dll
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\ref\EnglishToSpanish.dll
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.pdb
+C:\GitHub\MSSA-Assignments\C#\EnglishtoSpanish\EnglishToSpanish\EnglishToSpanish\obj\Debug\net5.0\EnglishToSpanish.genruntimeconfig.cache

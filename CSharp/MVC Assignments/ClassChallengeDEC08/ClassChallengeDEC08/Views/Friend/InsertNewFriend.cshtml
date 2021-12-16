@@ -1,0 +1,49 @@
+﻿@model Friend
+@{
+}
+@*The following adds the functionality to add *@
+<form method = "post"  asp-action = "InsertNewFriend"  >
+    <div asp-validation-summary = "All">
+
+        <div class = "form-field">
+            <label>Friend ID</label>      
+            <input asp-for = "_friendID"/>
+            <span asp-validation-for = "_friendID"/>
+        </div>
+
+        <div class = "form-field">
+            <label>Friend Name</label>
+            <input asp-for = "_friendName"  />
+            <span asp-validation-for = "_friendName"/>
+        </div>
+
+        <div class = "form-field">
+            <label>Friend Place</label>
+            <input asp-for = "_place"/>
+            <span asp-validation-for = "_place"/>
+        </div>
+
+        <div class = "form-field">
+            <label>Friend's Birth Day</label>
+            <input asp-for = "_BirthDay"/>
+            <span asp-validation-for = "_BirthDay"/>
+        </div>
+
+        <div class = "form-field">
+            <label>Friend's Gender</label>
+            <input asp-for = "_Gender"/>
+            <span asp-validation-for = "_Gender"/>
+        </div>
+
+        <div class = "form-field">
+            <label>Friend's NickName</label>
+            <input asp-for = "_NickName"/>
+            <span asp-validation-for = "_NickName"/>
+        </div>
+
+        <div class = "form-field">
+            <button type = "submit" value = "submit" > Submit</button> 
+        </div>
+
+    </div>
+</form>

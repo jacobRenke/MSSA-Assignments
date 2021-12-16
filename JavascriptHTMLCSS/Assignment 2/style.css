@@ -1,0 +1,61 @@
+body 
+{
+    width: 270px;
+    background-color: white;
+}
+
+.input
+{
+    height: 40px;
+    text-align: end;
+    color: greenyellow;
+    border: white;;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    background-color: black;
+}
+
+.buttons-board
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    height: 480px;
+    background-color: gray;
+}
+
+.button-equals
+{
+    background-color: rgb(126, 43, 43);
+    height: 80px;
+    width: 80px;
+}
+
+.button-clear
+{
+    background-color: rgb(126, 43, 43);
+    height: 80px;
+    width: 80px;
+}
+
+.button-delete
+{
+    background-color: rgb(126, 43, 43);
+    height: 80px;
+    width: 80px;
+}
+
+.button-function
+{
+    background-color: rgb(126, 43, 43);
+    height: 80px;
+    width: 80px;
+}
+
+.button-number
+{
+    height: 80px;
+    width: 80px;
+}

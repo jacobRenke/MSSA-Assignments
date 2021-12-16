@@ -1,0 +1,55 @@
+﻿@model ClassChallengeDEC08.Models.Friend
+
+
+
+<h4>Friend</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @*This is used so when you hit the save button you are directed to the method in the Controller called "UpdateFriend"*@
+        <form asp-action="UpdateFriend">
+
+            @*The following is used to create/update fields of a gives friend (exactly the same for the most part as in InsertNewFriend.cshtml)*@
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="_friendID" class="control-label"></label>
+                <input asp-for="_friendID" class="form-control" />
+                <span asp-validation-for="_friendID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="_friendName" class="control-label"></label>
+                <input asp-for="_friendName" class="form-control" />
+                <span asp-validation-for="_friendName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="_place" class="control-label"></label>
+                <input asp-for="_place" class="form-control" />
+                <span asp-validation-for="_place" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="_BirthDay" class="control-label"></label>
+                <input asp-for="_BirthDay" class="form-control" />
+                <span asp-validation-for="_BirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="_NickName" class="control-label"></label>
+                <input asp-for="_NickName" class="form-control" />
+                <span asp-validation-for="_NickName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="_Gender" class="control-label"></label>
+                <input asp-for="_Gender" class="form-control" />
+                <span asp-validation-for="_Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                @*this is the button to save the data, it uses the asp-action "UpdateFriend"*@
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+   <button> <a asp-action="Index">Back to List</a></button>
+</div>

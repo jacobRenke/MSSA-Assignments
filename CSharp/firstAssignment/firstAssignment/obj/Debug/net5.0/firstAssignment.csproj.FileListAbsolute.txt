@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.exe
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.deps.json
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.dll
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\ref\firstAssignment.dll
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\bin\Debug\net5.0\firstAssignment.pdb
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.dll
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\ref\firstAssignment.dll
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.pdb
+C:\GitHub\MSSA-Assignments\C#\firstAssignment\firstAssignment\obj\Debug\net5.0\firstAssignment.genruntimeconfig.cache

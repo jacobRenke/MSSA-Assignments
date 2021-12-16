@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "studentAttendance/1.0.0": {
+        "runtime": {
+          "studentAttendance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "studentAttendance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.exe
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.deps.json
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.dll
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\ref\MethodChallenge1.dll
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\bin\Debug\net5.0\MethodChallenge1.pdb
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.dll
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\ref\MethodChallenge1.dll
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.pdb
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.genruntimeconfig.cache
+C:\GitHub\MSSA-Assignments\C#\inClass\MethodsChallenge1\MethodChallenge1\MethodChallenge1\obj\Debug\net5.0\MethodChallenge1.csproj.AssemblyReference.cache

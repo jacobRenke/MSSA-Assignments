@@ -1,0 +1,60 @@
+﻿<Window x:Class="HospitalInformation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalInformation"
+        mc:Ignorable="d"
+        Title="PatientWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="600*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Grid.Column="0" Margin="0,0,0,0" Text="First Name:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="1" Grid.Column="0" Margin="0,0,0,0" Text="Last Name:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="2" Grid.Column="0" Margin="0,0,0,0" Text="Age:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="3" Grid.Column="0" Margin="0,0,0,0" Text="Gender:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="4" Grid.Column="0" Margin="0,0,0,0" Text="Blood Type:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="5" Grid.Column="0" Margin="0,0,0,0" Text="Weight:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="6" Grid.Column="0" Margin="0,0,0,0" Text="Height:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="7" Grid.Column="0" Margin="0,0,0,0" Text="SSN:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+        <TextBox Grid.Row="8" Grid.Column="0" Margin="0,0,0,0" Text="Insurance:" FontWeight="Bold" HorizontalAlignment="Center" FontSize="25"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+       
+        
+        <TextBox Grid.Row="5" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+        <TextBox Grid.Row="6" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+        <TextBox Grid.Row="7" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+        <TextBox Grid.Row="8" Grid.Column="1" Margin="10,10,10,10" Text=""/>
+
+        <Label Content="" Grid.Row="3" Grid.Column="1" Margin="0,0,0,0"/>
+        <StackPanel x:Name="Difficulty" Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="10,15,0,0">
+            <RadioButton x:Name="male" Grid.Row="3" Grid.Column="1" Margin="0,0,0,0" Content="Male"></RadioButton>
+            <RadioButton x:Name="female" Grid.Row="3" Grid.Column="1" Margin="30,0,0,0" Content="Female"></RadioButton> 
+        </StackPanel >
+
+        <StackPanel Grid.Row="4" Grid.Column="1">
+            <ComboBox x:Name="Resolution" Margin="10,10,10,0" Width="270" SelectedValuePath="Content" HorizontalAlignment="Left">
+                <ComboBoxItem Content="!+"/>
+                <ComboBoxItem Content="1280x720p"/>
+                <ComboBoxItem Content="1920x1080p"/>
+                <ComboBoxItem Content="2560x1440p"/>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>

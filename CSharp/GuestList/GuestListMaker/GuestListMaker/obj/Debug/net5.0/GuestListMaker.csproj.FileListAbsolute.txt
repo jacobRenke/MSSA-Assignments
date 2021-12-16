@@ -1,0 +1,16 @@
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.exe
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.deps.json
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.runtimeconfig.json
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.runtimeconfig.dev.json
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.dll
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\ref\GuestListMaker.dll
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\bin\Debug\net5.0\GuestListMaker.pdb
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.csproj.AssemblyReference.cache
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.AssemblyInfoInputs.cache
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.AssemblyInfo.cs
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.csproj.CoreCompileInputs.cache
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.dll
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\ref\GuestListMaker.dll
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.pdb
+C:\GitHub\MSSA-Assignments\C#\GuestList\GuestListMaker\GuestListMaker\obj\Debug\net5.0\GuestListMaker.genruntimeconfig.cache
