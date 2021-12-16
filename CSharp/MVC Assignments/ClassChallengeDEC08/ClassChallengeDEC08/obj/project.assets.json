@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\MSSA_Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
+      "projectUniqueName": "C:\\GitHub\\MSSA Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
       "projectName": "ClassChallengeDEC08",
-      "projectPath": "C:\\GitHub\\MSSA_Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
+      "projectPath": "C:\\GitHub\\MSSA Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
       "packagesPath": "C:\\Users\\jaker\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\MSSA_Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\obj\\",
+      "outputPath": "C:\\GitHub\\MSSA Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QwB+369lUGjiKRqYchuyBjrWtgjzuSTyaHJhlqqY7kiiCxrTjS/EGrb6mgDZlCF07nYQ/i5INq9bbR02Ei9Uqg==",
+  "dgSpecHash": "KJDGsWSGiL1cmkunjcWyI/Pvk4A/y+EiF32CvL6AKQzj4z3wqNqJiAMleuJZUsMXdHCg1QAU0QUa/1OW0fDmgg==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\MSSA_Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
+  "projectFilePath": "C:\\GitHub\\MSSA Assignments\\CSharp\\MVC Assignments\\ClassChallengeDEC08\\ClassChallengeDEC08\\ClassChallengeDEC08.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaker\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\jaker\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
