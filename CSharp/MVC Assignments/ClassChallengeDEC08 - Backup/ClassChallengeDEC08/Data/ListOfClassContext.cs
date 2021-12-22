@@ -14,7 +14,7 @@ namespace ClassChallengeDEC08.Data
 
         }
 
-        public DbSet<Friend> listOfFriends { get; set; }
+        public DbSet<Friend> Friend { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

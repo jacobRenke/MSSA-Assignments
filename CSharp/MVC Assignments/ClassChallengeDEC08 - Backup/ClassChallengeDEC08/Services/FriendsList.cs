@@ -1,20 +1,26 @@
 ﻿using System.Collections.Generic;
 using ClassChallengeDEC08.Models;
 using System.Linq;
+using ClassChallengeDEC08.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace ClassChallengeDEC08.Services
 
 {
     public class FriendsList : IFriendsList
     {
-        //THIS IS ALSO GOING TO BE DELEGATED TO MY DATA CONTEXT
-        //public List<Friend> Friends { get; set; }
+        
+        private FriendContext butler;
+
+        public FriendsList(FriendContext db)
+        {
+            butler = db;
+        }
 
         public FriendsList()
         {
             //calls the method to set the initial value of the Friends list
             //InitializeFriendsList();
-
         }
 
         //THIS IS GOING TO BE DELEGATED TO MY DATA CONTEXT 
@@ -28,29 +34,35 @@ namespace ClassChallengeDEC08.Services
 
         //}
 
-        public Friend GetFriendById (int? id)
+        public List<Friend> getFriends()
         {
-
-            return butler.ListOfClassContext.ToList();
-            //creating a new friend. SingleOrDefault attempts to retrieve a friend =>(where) friend._friendID is equal to ID
-            //Friend friend = this.Friends.SingleOrDefault(friend => friend._friendID == id);
-
-            //return friend;
+            return butler.Friend.ToList();
         }
 
-        public void DeleteFriendById(int? id)
+        public Friend getFriendById (int id)
         {
-            //creating a new friend. SingleOrDefault attempts to retrieve a friend =>(where) friend._friendID is equal to ID
-            Friend FriendToRemove = GetFriendById(id);
+            return butler.Friend.SingleOrDefault(friend => friend._friendID == id); ;
+        }
 
+        public void insertNewFriend(Friend friend)
+        {
+            butler.Friend.Add(friend);
+            butler.SaveChanges();
+        }
+
+        public void DeleteFriendById(int id)
+        {
             //removes the Friend named FriendToRemove from the List named Friends
-            this.Friends.Remove(FriendToRemove);
+            Friend friend = butler.Friend.SingleOrDefault(friend => friend._friendID == id);
+            butler.Friend.Remove(friend);
+            butler.SaveChanges();
         }
 
-       public void UpdateFriendById(Friend friend, int id)
+       public void UpdateFriendById(Friend friend)
         {
             //changes friend at position ID-1 (the place in the list it is) to the friend that is passed from controller
-            Friends[id - 1] = friend;
+            butler.Entry(friend).State = EntityState.Modified;
+            butler.SaveChanges();
         }
 
     }

@@ -22,74 +22,45 @@ namespace ClassChallengeDEC08.Controllers
 
         public IActionResult Index()
         {         
-            return View(_friendsList);
+            return View(_friendsList.getFriends());
         }
 
-        public IActionResult Details (int? id)
+        [HttpGet]
+        public IActionResult InsertNewFriend()
         {
-            //created a new friend object based off a method in the FriendsList Service
-            //sends the GetFriendsById method an id that is sent from the view using a routed id
-            Friend friend = _friendsList.GetFriendById(id);
+            return View();
+        }
 
-            //returns the specific friend to the view
+        // CREATE FRIENDS
+        [HttpPost]
+        public IActionResult InsertNewFriend(Friend friend)
+        {
+            if (ModelState.IsValid)
+            {
+                _friendsList.insertNewFriend(friend);
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+        public IActionResult FriendsDetail(int id)
+        {
+            Friend friend = _friendsList.getFriendById(id);
             return View(friend);
         }
 
-        public IActionResult DeleteFriend(int? id)
+        public IActionResult DeleteFriendById(int id)
         {
-            //this method calls the DeleteFriendById method in the FriendsList Class (under Services)
-            
-            //uses the instantiated instance of IFriendsList to call the DeletFriendById using the 
-            //routed ID from the CSHTML document
-             _friendsList.DeleteFriendById(id);
-
-            //redirects the users view to the Index view after deleting.
+            _friendsList.DeleteFriendById(id);
             return RedirectToAction("Index");
+            // Send it to a Are you sure page?
         }
-     
 
-        //public IActionResult UpdateFriendDetails(int? id)
-        //{
-        //    //created a new friend object based off a method in the FriendsList Service
-        //    //sends the GetFriendsById method an id that is sent from the view using a routed id
-        //    Friend friend = _friendsList.GetFriendById(id);
-
-        //    //returns the specific friend to the view
-        //    return View(friend);
-        //}
-
-        //public IActionResult UpdateFriend(Friend friend)
-        //{
-        //    //calls the UpdateFriendById function in the FriendsList class, sending it the friend and the friend's id.
-        //    _friendsList.UpdateFriendById(friend, friend._friendID);
-
-        //    //once the friend is updated you get redirected to the Index view
-        //    return RedirectToAction("Index");
-        //}
-    
-
-
-        //[HttpGet]
-        //public IActionResult InsertNewFriend()
-        //{
-            
-        //    return View();
-        //}
-        ////CREATE FRIENDS
-
-        //[HttpPost]        
-        //public IActionResult InsertNewFriend(Friend friend)
-        //{
-        //    //checks to see if validators are happy, if they are will go back to Index page.
-        //    if (ModelState.IsValid)
-        //    {
-                
-        //        _friendsList.Friends.Add(friend);
-        //        return RedirectToAction("Index");
-        //    }
-            
-            
-        //    return View();
-        //}
+        [HttpPost]
+        public IActionResult UpdateFriendById(Friend friend)
+        {
+            _friendsList.UpdateFriendById(friend);
+            return View(friend);
+        }
     }
 }

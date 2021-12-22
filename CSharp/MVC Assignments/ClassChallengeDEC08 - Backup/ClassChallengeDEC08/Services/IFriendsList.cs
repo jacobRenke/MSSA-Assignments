@@ -8,10 +8,14 @@ namespace ClassChallengeDEC08.Services
     {
         //List<Friend> Friends { get; set; }
 
-        public Friend GetFriendById(int? id);
+        public List<Friend> getFriends();
 
-        public void DeleteFriendById(int? id);
+        public Friend getFriendById(int id);
 
-        public void UpdateFriendById(Friend friend, int id);
+        public void insertNewFriend(Friend friend);
+
+        public void DeleteFriendById(int id);
+
+        public void UpdateFriendById(Friend friend);
     }
 }

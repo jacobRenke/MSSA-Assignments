@@ -28,7 +28,8 @@ namespace ClassChallengeDEC08
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            string connectionstring = "Server=JACOBRENKEPC\\SQLEXPRESS";
+            string connectionstring = "Server=JACOBRENKEPC\\SQLEXPRESS;Database=Friends;Trusted_Connection = True;MultipleActiveResultSets = true";
+
 
             //adds a service for FriendsList to utilize Dependency Injection.
             services.AddDbContext<FriendContext>(options => options.UseSqlServer(connectionstring)); // Add 'butler' to interact with database
